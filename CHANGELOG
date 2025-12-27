@@ -1,0 +1,29 @@
+Change Log
+
+Version 1.0
+March 2025
+
+Initial public release of the Enhanced Pre-Decision Meeting Transparency model ordinance.
+
+Includes:
+- Core ordinance establishing disclosure requirements for pre-decision meetings
+- Definitions for covered meetings, interested parties, and pending actions
+- Public access and retention standards
+- Administrative, non-criminal enforcement framework
+
+Supporting documents added:
+- README describing scope, intent, and limitations
+- Implementation Notes providing administrative guidance and legal context
+- Clarified exemption standards to prevent misuse
+- Explicit rejection of “personal” or “informal” meeting loopholes
+- Disclosure framework for investigatory and confidential meetings
+- Abstraction standard for sensitive subject matter
+- Example Meeting Log illustrating compliant disclosures
+
+Authorship:
+Original draft authored by Christopher J. DePace.
+
+License:
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+End of Change Log
